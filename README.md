@@ -1,6 +1,6 @@
 # Material design colors
 
-This is a css color palette file based on the material design base colors. Each of these colors is defined as a color class for color and background-color properties.
+This is a color palette css file based on the material design colors. Each of these colors is defined as a color class for color and background-color properties.
 
 Installation
 ---
