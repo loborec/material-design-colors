@@ -1,14 +1,14 @@
 {
   "name": "loborec/material-design-colors",
   "description": "Material design colors CSS",
-  "keywords": ["material", "css"],
+  "keywords": ["css", "colors", "material", "material design"],
   "type": "library",
-  "homepage": "https://github.com/loborec",
+  "homepage": "https://github.com/loborec/material-design-colors",
   "license": "MIT",
   "authors": [
     {
       "name": "Dubravko Loborec",
-      "homepage": "https://github.com/loborec"
+      "homepage": "http://www.DubravkoLoborec.com"
     }
   ],
   "require": {
